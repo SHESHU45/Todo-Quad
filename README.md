@@ -36,17 +36,18 @@ This is a Todo application built with React. It allows users to add, edit, delet
 ## Usage
 
 1. Start the development server:
+ 
    npm start
 
-2. Open your browser and visit `http://localhost:3000` to view the todo app.
+3. Open your browser and visit `http://localhost:3000` to view the todo app.
 
-3. Add new tasks by typing into the input field and pressing Enter or clicking the "Add todo" button.
+4. Add new tasks by typing into the input field and pressing Enter or clicking the "Add todo" button.
 
-4. Mark a task as complete by clicking on it.
+5. Mark a task as complete by clicking on it.
 
-5. Edit a task by clicking the edit icon next to it.
+6. Edit a task by clicking the edit icon next to it.
 
-6. Delete a task by clicking the delete icon next to it.
+7. Delete a task by clicking the delete icon next to it.
 
 ## Local Storage
 
